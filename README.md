@@ -25,4 +25,4 @@
 
 The data points towards a steady demand in water heating while indicating a need to investigate ACP usage patterns, especially mechanical, for potential optimizations. 🕵️‍♂️💡
 
-![](images/Sustainability dashboard.png)
+![].(images/Sustainability dashboard.png)
