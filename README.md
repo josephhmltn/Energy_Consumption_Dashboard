@@ -8,6 +8,8 @@
 - **Stable WH Consumption:** WH (Water Heating) total kW remains relatively stable across the days, with a slight increase on July 5. 🚿📊
 - **Daily Total kW Peaks Midweek:** The combined daily total kW for ACP and WH peaks on July 5 at **1007 kW**. 📆🔝
 
+![](images/Sustainability dashboard.png)
+
 **Detailed Breakdown:**
 - **ACP kW by Load Type (Pie Chart):** 
   - ACP_EV_kW: **24.37 kW (2.36%)**
@@ -24,5 +26,3 @@
   - July 5: **WH_Total_kW: 602 kW | ACP_Total_kW: 1007 kW**
 
 The data points towards a steady demand in water heating while indicating a need to investigate ACP usage patterns, especially mechanical, for potential optimizations. 🕵️‍♂️💡
-
-![].(images/Sustainability dashboard.png)
