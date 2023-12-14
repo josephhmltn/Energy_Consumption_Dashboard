@@ -1,5 +1,9 @@
 # Sustainability Power BI Dashboard
 
+## Project Goal 🎯
+
+This analysis was conceived as a **30-minute Power BI dashboard challenge**, aiming to showcase the agility and robustness of my Power BI capability in handling ad hoc data request. The exercise tested the tool's capabilities to swiftly generate insights into energy consumption patterns. A focused timeframe pushed the boundaries of rapid data visualization and interpretation under tight constraints. The resulting dashboard not only met the challenge but also provided a springboard for further in-depth analysis.
+
 ## Energy Consumption Analysis 📈
 
 **Key Insights:**
