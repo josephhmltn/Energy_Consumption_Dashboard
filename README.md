@@ -1,4 +1,4 @@
-# Sustainability Power BI Dashboard
+# Energy Consumption Power BI Dashboard
 
 ## Project Goal 🎯
 
